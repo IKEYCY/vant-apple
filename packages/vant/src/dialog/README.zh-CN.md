@@ -167,7 +167,7 @@ Vant 中导出了以下 Dialog 相关的辅助函数：
 | showConfirmButton | 是否展示确认按钮 | _boolean_ | `true` |
 | showCancelButton | 是否展示取消按钮 | _boolean_ | `false` |
 | confirmButtonText | 确认按钮文案 | _string_ | `确认` |
-| confirmButtonColor | 确认按钮颜色 | _string_ | `#ee0a24` |
+| confirmButtonColor | 确认按钮颜色 | _string_ | `#d34757` |
 | confirmButtonDisabled | 是否禁用确认按钮 | _boolean_ | `false` |
 | cancelButtonText | 取消按钮文案 | _string_ | `取消` |
 | cancelButtonColor | 取消按钮颜色 | _string_ | `black` |
@@ -200,7 +200,7 @@ Vant 中导出了以下 Dialog 相关的辅助函数：
 | show-confirm-button | 是否展示确认按钮 | _boolean_ | `true` |
 | show-cancel-button | 是否展示取消按钮 | _boolean_ | `false` |
 | confirm-button-text | 确认按钮文案 | _string_ | `确认` |
-| confirm-button-color | 确认按钮颜色 | _string_ | `#ee0a24` |
+| confirm-button-color | 确认按钮颜色 | _string_ | `#d34757` |
 | confirm-button-disabled | 是否禁用确认按钮 | _boolean_ | `false` |
 | cancel-button-text | 取消按钮文案 | _string_ | `取消` |
 | cancel-button-color | 取消按钮颜色 | _string_ | `black` |

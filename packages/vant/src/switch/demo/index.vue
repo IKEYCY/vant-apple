@@ -65,7 +65,7 @@ const onUpdateValue = (checked: boolean) => {
   <demo-block :title="t('customColor')">
     <van-switch
       v-model="checked3"
-      active-color="#ee0a24"
+      active-color="#d34757"
       inactive-color="#dcdee0"
     />
   </demo-block>

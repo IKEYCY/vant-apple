@@ -57,7 +57,7 @@ const t = useTranslate({
   <demo-block :title="t('customStyle')">
     <van-notice-bar
       :text="t('haiku')"
-      color="#1989fa"
+      color="#313f63"
       background="#ecf9ff"
       left-icon="info-o"
     />

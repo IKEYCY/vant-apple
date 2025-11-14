@@ -85,8 +85,8 @@ export default {
 
 ```html
 <van-radio-group v-model="checked">
-  <van-radio name="1" checked-color="#ee0a24">单选框 1</van-radio>
-  <van-radio name="2" checked-color="#ee0a24">单选框 2</van-radio>
+  <van-radio name="1" checked-color="#d34757">单选框 1</van-radio>
+  <van-radio name="2" checked-color="#d34757">单选框 2</van-radio>
 </van-radio-group>
 ```
 
@@ -200,7 +200,7 @@ export default {
 | label-disabled | 是否禁用文本内容点击 | _boolean_ | `false` |
 | label-position | 文本位置，可选值为 `left` | _string_ | `right` |
 | icon-size | 图标大小，默认单位为 `px` | _number \| string_ | `20px` |
-| checked-color | 选中状态颜色 | _string_ | `#1989fa` |
+| checked-color | 选中状态颜色 | _string_ | `#313f63` |
 
 ### RadioGroup Props
 
@@ -210,7 +210,7 @@ export default {
 | disabled | 是否禁用所有单选框 | _boolean_ | `false` |
 | direction | 排列方向，可选值为 `horizontal` | _string_ | `vertical` |
 | icon-size | 所有单选框的图标大小，默认单位为 `px` | _number \| string_ | `20px` |
-| checked-color | 所有单选框的选中状态颜色 | _string_ | `#1989fa` |
+| checked-color | 所有单选框的选中状态颜色 | _string_ | `#313f63` |
 | shape `v4.6.3` | 形状，可选值为 `square` `dot` | _string_ | `round` |
 
 ### Radio Events

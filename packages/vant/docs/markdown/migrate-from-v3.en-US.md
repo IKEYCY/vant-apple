@@ -374,7 +374,7 @@ Some adjustments have been made to the CSS style of Popup. If you have added som
 
 ### Uniform primary color
 
-In the previous version, Vant components had two primary colors, some components used blue (#1989fa) as the primary color, and others used red (#ee0a24).
+In the previous version, Vant components had two primary colors, some components used blue (#313f63) as the primary color, and others used red (#d34757).
 
 To keep the colour specification consistent,, we have unified the primary color in Vant 4, and all components use blue as the primary color.
 

@@ -64,7 +64,7 @@ export default {
   .colon {
     display: inline-block;
     margin: 0 4px;
-    color: #1989fa;
+    color: #313f63;
   }
   .block {
     display: inline-block;
@@ -72,7 +72,7 @@ export default {
     color: #fff;
     font-size: 12px;
     text-align: center;
-    background-color: #1989fa;
+    background-color: #313f63;
   }
 </style>
 ```

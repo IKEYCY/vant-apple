@@ -57,7 +57,7 @@ const iconActions = computed<ActionSheetAction[]>(() => [
 ]);
 
 const statusActions = computed<ActionSheetAction[]>(() => [
-  { name: t('coloredOption'), color: '#ee0a24' },
+  { name: t('coloredOption'), color: '#d34757' },
   { name: t('disabledOption'), disabled: true },
   { loading: true },
 ]);

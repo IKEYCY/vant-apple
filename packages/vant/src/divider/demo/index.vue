@@ -51,7 +51,7 @@ const t = useTranslate({
 
   <demo-block :title="t('customStyle')">
     <van-divider
-      :style="{ borderColor: '#1989fa', color: '#1989fa', padding: '0 16px' }"
+      :style="{ borderColor: '#313f63', color: '#313f63', padding: '0 16px' }"
     >
       {{ t('text') }}
     </van-divider>
@@ -65,7 +65,7 @@ const t = useTranslate({
       {{ t('text') }}
       <van-divider vertical :hairline="false" />
       {{ t('text') }}
-      <van-divider vertical :style="{ borderColor: '#1989fa' }" />
+      <van-divider vertical :style="{ borderColor: '#313f63' }" />
     </div>
   </demo-block>
 </template>

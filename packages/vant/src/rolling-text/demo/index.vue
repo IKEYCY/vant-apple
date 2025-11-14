@@ -158,7 +158,7 @@ const reset = () => {
   }
 
   .my-rolling-text {
-    --van-rolling-text-background: #1989fa;
+    --van-rolling-text-background: #313f63;
     --van-rolling-text-color: white;
     --van-rolling-text-font-size: 24px;
     --van-rolling-text-gap: 6px;

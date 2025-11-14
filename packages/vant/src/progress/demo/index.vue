@@ -45,7 +45,7 @@ const reduce = () => {
 
   <demo-block :title="t('title3')">
     <van-progress color="#f2826a" :percentage="25" :pivot-text="t('orange')" />
-    <van-progress color="#ee0a24" :percentage="50" :pivot-text="t('red')" />
+    <van-progress color="#d34757" :percentage="50" :pivot-text="t('red')" />
     <van-progress
       :percentage="75"
       :pivot-text="t('purple')"

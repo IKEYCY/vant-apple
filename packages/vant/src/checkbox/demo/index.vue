@@ -120,7 +120,7 @@ const checkedResultChange = (value: string[]) => {
   </demo-block>
 
   <demo-block :title="t('customColor')">
-    <van-checkbox v-model="state.checkbox2" checked-color="#ee0a24">
+    <van-checkbox v-model="state.checkbox2" checked-color="#d34757">
       {{ t('customColor') }}
     </van-checkbox>
   </demo-block>

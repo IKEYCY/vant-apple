@@ -139,7 +139,7 @@ export default {
 通过 `color` 属性可以自定义日历的颜色，对选中日期和底部按钮生效。
 
 ```html
-<van-calendar v-model:show="show" color="#ee0a24" />
+<van-calendar v-model:show="show" color="#d34757" />
 ```
 
 ### 自定义日期范围
@@ -266,7 +266,7 @@ export default {
 | type | 选择类型：<br>`single` 表示选择单个日期，<br>`multiple` 表示选择多个日期，<br>`range` 表示选择日期区间 | _string_ | `single` |
 | switch-mode `v4.9.0` | 切换模式：<br>`none` 平铺展示所有月份，不展示切换按钮，<br>`month` 支持按月切换，展示上个月/下个月按钮，<br>`year-month` 支持按年切换，也支持按月切换，展示上一年/下一年，上个月/下个月按钮 | _string_ | `none` |
 | title | 日历标题 | _string_ | `日期选择` |
-| color | 主题色，对底部按钮和选中日期生效 | _string_ | `#1989fa` |
+| color | 主题色，对底部按钮和选中日期生效 | _string_ | `#313f63` |
 | min-date | 可选择的最小日期 | _Date_ | `switch-mode` 为 `none` 时为当前日期 |
 | max-date | 可选择的最大日期 | _Date_ | `switch-mode` 为 `none` 时为当前日期的六个月后 |
 | default-date | 默认选中的日期，`type` 为 `multiple` 或 `range` 时为数组，传入 `null` 表示默认不选择 | _Date \| Date[] \| null_ | 今天 |

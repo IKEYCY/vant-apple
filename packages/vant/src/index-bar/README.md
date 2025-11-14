@@ -75,7 +75,7 @@ export default {
 | z-index | z-index | _number \| string_ | `1` |
 | sticky | Whether to enable anchor sticky top | _boolean_ | `true` |
 | sticky-offset-top | Anchor offset top when sticky | _number_ | `0` |
-| highlight-color | Index character highlight color | _string_ | `#1989fa` |
+| highlight-color | Index character highlight color | _string_ | `#313f63` |
 | teleport | Specifies a target element where IndexBar will be mounted | _string \| Element_ | - |
 
 ### IndexAnchor Props

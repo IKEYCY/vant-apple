@@ -130,14 +130,14 @@ exports[`should render demo and match snapshot 1`] = `
         </div>
         <div
           class="van-step__line"
-          style="background:#07c160;"
+          style="background:#41ad88;"
         >
         </div>
       </div>
       <div class="van-hairline van-step van-step--horizontal van-step--process">
         <div
           class="van-step__title van-step__title--active"
-          style="color:#07c160;"
+          style="color:#41ad88;"
         >
           <!--[-->
           Step2
@@ -145,7 +145,7 @@ exports[`should render demo and match snapshot 1`] = `
         <div class="van-step__circle-container">
           <i
             class="van-badge__wrapper van-icon van-icon-success van-step__icon van-step__icon--active"
-            style="color:#07c160;"
+            style="color:#41ad88;"
           >
             <!--[-->
           </i>

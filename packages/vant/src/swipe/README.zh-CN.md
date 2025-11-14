@@ -162,7 +162,7 @@ export default {
 | touchable        | 是否可以通过手势滑动     | _boolean_          | `true`    |
 | stop-propagation | 是否阻止滑动事件冒泡     | _boolean_          | `true`    |
 | lazy-render      | 是否延迟渲染未展示的轮播 | _boolean_          | `false`   |
-| indicator-color  | 指示器颜色               | _string_           | `#1989fa` |
+| indicator-color  | 指示器颜色               | _string_           | `#313f63` |
 
 ### Swipe Events
 

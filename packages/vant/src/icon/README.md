@@ -51,8 +51,8 @@ Use `badge` prop, the badge will be displayed in the upper right corner of the i
 Use `color` prop to set icon color.
 
 ```html
-<van-icon name="cart-o" color="#1989fa" />
-<van-icon name="fire-o" color="#ee0a24" />
+<van-icon name="cart-o" color="#313f63" />
+<van-icon name="fire-o" color="#d34757" />
 ```
 
 ### Icon Size

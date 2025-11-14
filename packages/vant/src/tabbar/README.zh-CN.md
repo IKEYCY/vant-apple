@@ -121,7 +121,7 @@ export default {
 通过 `active-color` 属性设置选中标签的颜色，通过 `inactive-color` 属性设置未选中标签的颜色。
 
 ```html
-<van-tabbar v-model="active" active-color="#ee0a24">
+<van-tabbar v-model="active" active-color="#d34757">
   <van-tabbar-item icon="home-o">标签</van-tabbar-item>
   <van-tabbar-item icon="search">标签</van-tabbar-item>
   <van-tabbar-item icon="friends-o">标签</van-tabbar-item>
@@ -181,7 +181,7 @@ export default {
 | fixed | 是否固定在底部 | _boolean_ | `true` |
 | border | 是否显示外边框 | _boolean_ | `true` |
 | z-index | 元素 z-index | _number \| string_ | `1` |
-| active-color | 选中标签的颜色 | _string_ | `#1989fa` |
+| active-color | 选中标签的颜色 | _string_ | `#313f63` |
 | inactive-color | 未选中标签的颜色 | _string_ | `#7d7e80` |
 | route | 是否开启路由模式 | _boolean_ | `false` |
 | placeholder | 固定在底部时，是否在标签位置生成一个等高的占位元素 | _boolean_ | `false` |

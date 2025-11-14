@@ -48,7 +48,7 @@ app.use(Progress);
 
 ```html
 <van-progress pivot-text="橙色" color="#f2826a" :percentage="25" />
-<van-progress pivot-text="红色" color="#ee0a24" :percentage="50" />
+<van-progress pivot-text="红色" color="#d34757" :percentage="50" />
 <van-progress
   :percentage="75"
   pivot-text="紫色"
@@ -65,7 +65,7 @@ app.use(Progress);
 | --- | --- | --- | --- |
 | percentage | 进度百分比 | _number \| string_ | `0` |
 | stroke-width | 进度条粗细，默认单位为`px` | _number \| string_ | `4px` |
-| color | 进度条颜色 | _string_ | `#1989fa` |
+| color | 进度条颜色 | _string_ | `#313f63` |
 | track-color | 轨道颜色 | _string_ | `#e5e5e5` |
 | pivot-text | 进度文字内容 | _string_ | 百分比 |
 | pivot-color | 进度文字背景色 | _string_ | 同进度条颜色 |

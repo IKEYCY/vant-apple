@@ -56,7 +56,7 @@ In terms of bundle size, this update still increases the size without increasing
 
 **Vant 4.0 unifies the primary color of all components.**
 
-In the previous version, Vant components had two primary colors, some components used blue `#1989fa` as their primary color, and others used red `#ee0a24`.
+In the previous version, Vant components had two primary colors, some components used blue `#313f63` as their primary color, and others used red `#d34757`.
 
 To keep the color specification consistent, we have unified the primary color in Vant 4, and all components use blue as the primary color.
 
@@ -66,7 +66,7 @@ Now that the primary color is unified, theme customization becomes easier. For e
 
 ```css
 :root {
-  --van-primary-color: #07c160;
+  --van-primary-color: #41ad88;
 }
 ```
 

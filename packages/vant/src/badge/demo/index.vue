@@ -50,13 +50,13 @@ const t = useTranslate({
   </demo-block>
 
   <demo-block :title="t('customColor')">
-    <van-badge content="5" color="#1989fa">
+    <van-badge content="5" color="#313f63">
       <div class="child" />
     </van-badge>
-    <van-badge content="10" color="#1989fa">
+    <van-badge content="10" color="#313f63">
       <div class="child" />
     </van-badge>
-    <van-badge dot color="#1989fa">
+    <van-badge dot color="#313f63">
       <div class="child" />
     </van-badge>
   </demo-block>

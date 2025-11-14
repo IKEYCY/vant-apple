@@ -61,13 +61,13 @@ app.use(Badge);
 ### Custom Color
 
 ```html
-<van-badge :content="5" color="#1989fa">
+<van-badge :content="5" color="#313f63">
   <div class="child" />
 </van-badge>
-<van-badge :content="10" color="#1989fa">
+<van-badge :content="10" color="#313f63">
   <div class="child" />
 </van-badge>
-<van-badge dot color="#1989fa">
+<van-badge dot color="#313f63">
   <div class="child" />
 </van-badge>
 ```
@@ -136,7 +136,7 @@ Use `position` prop to set the position of badge.
 | Attribute | Description | Type | Default |
 | --- | --- | --- | --- |
 | content | Badge content (Effective when `dot` is `false`) | _number \| string_ | - |
-| color | Background color | _string_ | `#ee0a24` |
+| color | Background color | _string_ | `#d34757` |
 | dot | Whether to show dot | _boolean_ | `false` |
 | max | Max value, show `{max}+` when exceed, only works when content is number | _number \| string_ | - |
 | offset | Offset of badge dot, the two items of the array correspond to the horizontal and vertical offsets | _[number \| string, number \| string]_ | - |

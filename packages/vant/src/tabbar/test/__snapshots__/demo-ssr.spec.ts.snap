@@ -388,7 +388,7 @@ exports[`should render demo and match snapshot 1`] = `
     <div
       role="tab"
       class="van-tabbar-item van-tabbar-item--active"
-      style="color:#ee0a24;"
+      style="color:#d34757;"
       tabindex="0"
       aria-selected="true"
     >

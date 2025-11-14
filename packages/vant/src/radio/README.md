@@ -77,8 +77,8 @@ export default {
 
 ```html
 <van-radio-group v-model="checked">
-  <van-radio name="1" checked-color="#ee0a24">Radio 1</van-radio>
-  <van-radio name="2" checked-color="#ee0a24">Radio 2</van-radio>
+  <van-radio name="1" checked-color="#d34757">Radio 1</van-radio>
+  <van-radio name="2" checked-color="#d34757">Radio 2</van-radio>
 </van-radio-group>
 ```
 
@@ -200,7 +200,7 @@ import type {
 | label-disabled | Whether to disable label click | _boolean_ | `false` |
 | label-position | Can be set to `left` | _string_ | `right` |
 | icon-size | Icon size | _number \| string_ | `20px` |
-| checked-color | Checked color | _string_ | `#1989fa` |
+| checked-color | Checked color | _string_ | `#313f63` |
 
 ### RadioGroup Props
 
@@ -210,7 +210,7 @@ import type {
 | disabled | Disable all radios | _boolean_ | `false` |
 | direction | Direction, can be set to `horizontal` | _string_ | `vertical` |
 | icon-size | Icon size of all radios | _number \| string_ | `20px` |
-| checked-color | Checked color of all radios | _string_ | `#1989fa` |
+| checked-color | Checked color of all radios | _string_ | `#313f63` |
 | shape `v4.6.3` | Can be set to `square` `dot` | _string_ | `round` |
 
 ### Radio Events

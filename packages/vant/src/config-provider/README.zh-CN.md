@@ -81,7 +81,7 @@ Vant 组件通过丰富的 [CSS 变量](https://developer.mozilla.org/zh-CN/docs
 ```css
 :root {
   --van-white: #fff;
-  --van-blue: #1989fa;
+  --van-blue: #313f63;
   --van-button-primary-color: var(--van-white);
   --van-button-primary-background: var(--van-primary-color);
 }
@@ -141,13 +141,13 @@ export default {
     // themeVars 内的值会被转换成对应 CSS 变量
     // 比如 sliderBarHeight 会转换成 `--van-slider-bar-height`
     const themeVars = reactive({
-      rateIconFullColor: '#07c160',
+      rateIconFullColor: '#41ad88',
       sliderBarHeight: '4px',
       sliderButtonWidth: '20px',
       sliderButtonHeight: '20px',
-      sliderActiveBackground: '#07c160',
-      buttonPrimaryBackground: '#07c160',
-      buttonPrimaryBorderColor: '#07c160',
+      sliderActiveBackground: '#41ad88',
+      buttonPrimaryBackground: '#41ad88',
+      buttonPrimaryBorderColor: '#41ad88',
     });
 
     return {
@@ -295,15 +295,15 @@ CSS 变量存在继承关系，组件变量会寻找最近的父级基础变量�
 --van-gray-6: #969799;
 --van-gray-7: #646566;
 --van-gray-8: #323233;
---van-red: #ee0a24;
---van-blue: #1989fa;
+--van-red: #d34757;
+--van-blue: #313f63;
 --van-orange: #ff976a;
 --van-orange-dark: #ed6a0c;
 --van-orange-light: #fffbe8;
---van-green: #07c160;
+--van-green: #41ad88;
 
 // Gradient Colors
---van-gradient-red: linear-gradient(to right, #ff6034, #ee0a24);
+--van-gradient-red: linear-gradient(to right, #ff6034, #d34757);
 --van-gradient-orange: linear-gradient(to right, #ffd01e, #ff8917);
 
 // Component Colors
@@ -338,8 +338,9 @@ CSS 变量存在继承关系，组件变量会寻找最近的父级基础变量�
 --van-line-height-sm: 18px;
 --van-line-height-md: 20px;
 --van-line-height-lg: 22px;
---van-base-font: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica,
-  Segoe UI, Arial, Roboto, 'PingFang SC', 'miui', 'Hiragino Sans GB', 'Microsoft Yahei',
+--van-base-font:
+  -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Segoe UI,
+  Arial, Roboto, 'PingFang SC', 'miui', 'Hiragino Sans GB', 'Microsoft Yahei',
   sans-serif;
 --van-price-font: Avenir-Heavy, PingFang SC, Helvetica Neue, Arial, sans-serif;
 

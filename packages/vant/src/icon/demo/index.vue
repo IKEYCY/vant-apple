@@ -126,11 +126,11 @@ const copy = (icon: string, option: Record<string, unknown> = {}) => {
 
       <demo-block :title="t('color')">
         <van-row>
-          <van-col span="6" @click="copy('cart-o', { color: '#1989fa' })">
-            <van-icon name="cart-o" color="#1989fa" />
+          <van-col span="6" @click="copy('cart-o', { color: '#313f63' })">
+            <van-icon name="cart-o" color="#313f63" />
           </van-col>
-          <van-col span="6" @click="copy('fire-o', { color: '#ee0a24' })">
-            <van-icon name="fire-o" color="#ee0a24" />
+          <van-col span="6" @click="copy('fire-o', { color: '#d34757' })">
+            <van-icon name="fire-o" color="#d34757" />
           </van-col>
         </van-row>
       </demo-block>

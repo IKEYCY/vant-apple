@@ -74,7 +74,7 @@ const reduce = () => {
 
     <van-circle
       v-model:current-rate="currentRate3"
-      color="#ee0a24"
+      color="#d34757"
       :rate="rate"
       layer-color="#ebedf0"
       :speed="100"
@@ -91,7 +91,7 @@ const reduce = () => {
 
     <van-circle
       v-model:current-rate="currentRate4"
-      color="#07c160"
+      color="#41ad88"
       :rate="rate"
       :speed="100"
       :clockwise="false"

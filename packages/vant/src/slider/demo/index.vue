@@ -67,7 +67,7 @@ const onChange = (value: string) => showToast(t('text') + value);
     <van-slider
       v-model="value6"
       bar-height="4px"
-      active-color="#ee0a24"
+      active-color="#d34757"
       @change="onChange"
     />
   </demo-block>

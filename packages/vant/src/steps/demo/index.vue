@@ -58,7 +58,7 @@ const nextStep = () => {
       :active="active"
       active-icon="success"
       inactive-icon="arrow"
-      active-color="#07c160"
+      active-color="#41ad88"
     >
       <van-step>{{ t('step1') }}</van-step>
       <van-step>{{ t('step2') }}</van-step>

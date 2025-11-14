@@ -120,7 +120,7 @@ export default {
 Use `active-color` prop to custom active color of the title and options.
 
 ```html
-<van-dropdown-menu active-color="#ee0a24">
+<van-dropdown-menu active-color="#d34757">
   <van-dropdown-item v-model="value1" :options="option1" />
   <van-dropdown-item v-model="value2" :options="option2" />
 </van-dropdown-menu>
@@ -164,7 +164,7 @@ You can set `swipe-threshold` prop to customize threshold number.
 
 | Attribute | Description | Type | Default |
 | --- | --- | --- | --- |
-| active-color | Active color of title and option | _string_ | `#1989fa` |
+| active-color | Active color of title and option | _string_ | `#313f63` |
 | direction | Expand direction, can be set to `up` | _string_ | `down` |
 | z-index | z-index of menu item | _number \| string_ | `10` |
 | duration | Transition duration, unit second | _number \| string_ | `0.2` |

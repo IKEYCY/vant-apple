@@ -81,7 +81,7 @@ exports[`should render demo and match snapshot 1`] = `
   <div
     role="switch"
     class="van-switch van-switch--on"
-    style="background-color:#ee0a24;"
+    style="background-color:#d34757;"
     tabindex="0"
     aria-checked="true"
   >

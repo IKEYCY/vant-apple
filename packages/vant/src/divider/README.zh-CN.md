@@ -57,7 +57,7 @@ app.use(Divider);
 
 ```html
 <van-divider
-  :style="{ color: '#1989fa', borderColor: '#1989fa', padding: '0 16px' }"
+  :style="{ color: '#313f63', borderColor: '#313f63', padding: '0 16px' }"
 >
   文本
 </van-divider>
@@ -72,7 +72,7 @@ app.use(Divider);
 文本
 <van-divider vertical :hairline="false" />
 文本
-<van-divider vertical :style="{ borderColor: '#1989fa' }" />
+<van-divider vertical :style="{ borderColor: '#313f63' }" />
 ```
 
 ## API

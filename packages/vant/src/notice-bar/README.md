@@ -59,7 +59,7 @@ app.use(NoticeBar);
 ### Custom Style
 
 ```html
-<van-notice-bar color="#1989fa" background="#ecf9ff" left-icon="info-o">
+<van-notice-bar color="#313f63" background="#ecf9ff" left-icon="info-o">
   Short Content
 </van-notice-bar>
 ```

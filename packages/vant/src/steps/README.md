@@ -44,7 +44,7 @@ export default {
 ### Custom Style
 
 ```html
-<van-steps :active="active" active-icon="success" active-color="#07c160">
+<van-steps :active="active" active-icon="success" active-color="#41ad88">
   <van-step>Step1</van-step>
   <van-step>Step2</van-step>
   <van-step>Step3</van-step>
@@ -79,7 +79,7 @@ export default {
 | --- | --- | --- | --- |
 | active | Active step | _number \| string_ | `0` |
 | direction | Can be set to `vertical` | _string_ | `horizontal` |
-| active-color | Active step color | _string_ | `#1989fa` |
+| active-color | Active step color | _string_ | `#313f63` |
 | inactive-color | Inactive step color | _string_ | `#969799` |
 | active-icon | Active icon name | _string_ | `checked` |
 | inactive-icon | Inactive icon name | _string_ | - |

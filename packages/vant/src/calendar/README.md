@@ -135,7 +135,7 @@ Set `show-confirm` to `false` to hide the confirm button. In this case, the `con
 Use `color` prop to custom calendar color.
 
 ```html
-<van-calendar v-model:show="show" color="#ee0a24" />
+<van-calendar v-model:show="show" color="#d34757" />
 ```
 
 ### Custom Date Range
@@ -262,7 +262,7 @@ Set `poppable` to `false`, the calendar will be displayed directly on the page i
 | type | Type, can be set to `range` `multiple` | _string_ | `single` |
 | switch-mode `v4.9.0` | Switch mode:<br>`none` Display all months in a tiled format without switch buttons <br>`month` Support switching by month, displaying buttons for previous month/next month <br>`year-month` Support switching by year, as well as by month, displaying buttons for previous year/next year and previous month/next month | _string_ | `none` |
 | title | Title of calendar | _string_ | `Calendar` |
-| color | Color for the bottom button and selected date | _string_ | `#1989fa` |
+| color | Color for the bottom button and selected date | _string_ | `#313f63` |
 | min-date | Min date | _Date_ | When `switch-mode` is set to `none`, the default value is the today |
 | max-date | Max date | _Date_ | When `switch-mode` is set to `none`, the default value is six months after the today |
 | default-date | Default selected date | _Date \| Date[] \| null_ | Today |

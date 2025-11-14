@@ -67,13 +67,13 @@ app.use(Badge);
 通过 `color` 属性来设置徽标的颜色。
 
 ```html
-<van-badge :content="5" color="#1989fa">
+<van-badge :content="5" color="#313f63">
   <div class="child" />
 </van-badge>
-<van-badge :content="10" color="#1989fa">
+<van-badge :content="10" color="#313f63">
   <div class="child" />
 </van-badge>
-<van-badge dot color="#1989fa">
+<van-badge dot color="#313f63">
   <div class="child" />
 </van-badge>
 ```
@@ -144,7 +144,7 @@ app.use(Badge);
 | 参数 | 说明 | 类型 | 默认值 |
 | --- | --- | --- | --- |
 | content | 徽标内容（`dot` 为 `fasle` 时生效） | _number \| string_ | - |
-| color | 徽标背景颜色 | _string_ | `#ee0a24` |
+| color | 徽标背景颜色 | _string_ | `#d34757` |
 | dot | 是否展示为小红点 | _boolean_ | `false` |
 | max | 最大值，超过最大值会显示 `{max}+`，仅当 content 为数字时有效 | _number \| string_ | - |
 | offset | 设置徽标的偏移量，数组的两项分别对应水平向右和垂直向下方向的偏移量，默认单位为 `px` | _[number \| string, number \| string]_ | - |

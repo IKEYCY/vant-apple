@@ -73,7 +73,7 @@ app.use(NoticeBar);
 通过 `color` 属性设置文本颜色，通过 `background` 属性设置背景色。
 
 ```html
-<van-notice-bar color="#1989fa" background="#ecf9ff" left-icon="info-o">
+<van-notice-bar color="#313f63" background="#ecf9ff" left-icon="info-o">
   米袋虽空——樱花开哉！
 </van-notice-bar>
 ```

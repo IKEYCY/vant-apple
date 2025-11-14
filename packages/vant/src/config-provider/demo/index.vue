@@ -36,13 +36,13 @@ const t = useTranslate({
 const rate = ref(4);
 const slider = ref(50);
 const themeVars = {
-  rateIconFullColor: '#07c160',
+  rateIconFullColor: '#41ad88',
   sliderBarHeight: '4px',
   sliderButtonWidth: '20px',
   sliderButtonHeight: '20px',
-  sliderActiveBackground: '#07c160',
-  buttonPrimaryBackground: '#07c160',
-  buttonPrimaryBorderColor: '#07c160',
+  sliderActiveBackground: '#41ad88',
+  buttonPrimaryBackground: '#41ad88',
+  buttonPrimaryBorderColor: '#41ad88',
 };
 // fix https://github.com/youzan/vant/issues/13179
 const removeUselessStyle = () => {

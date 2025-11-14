@@ -135,7 +135,7 @@ const show = (type: string, id: string) => {
       state.showConfirm = false;
       break;
     case 'customColor':
-      state.color = '#ee0a24';
+      state.color = '#d34757';
       break;
     case 'customConfirm':
       state.confirmText = t('confirmText');

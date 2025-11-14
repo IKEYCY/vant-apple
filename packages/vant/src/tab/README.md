@@ -257,7 +257,7 @@ By setting the `showHeader` prop to `false`, the title bar of the Tabs component
 | --- | --- | --- | --- |
 | v-model:active | Index of active tab | _number \| string_ | `0` |
 | type | Can be set to `line` `card` | _string_ | `line` |
-| color | Tab color | _string_ | `#1989fa` |
+| color | Tab color | _string_ | `#313f63` |
 | background | Background color | _string_ | `white` |
 | duration | Toggle tab's animation time | _number \| string_ | `0.3` |
 | line-width | Width of tab line | _number \| string_ | `40px` |

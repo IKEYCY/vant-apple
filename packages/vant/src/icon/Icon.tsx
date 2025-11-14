@@ -64,6 +64,7 @@ export default defineComponent({
         >
           {slots.default?.()}
           {isImageIcon && <img class={bem('image')} src={name} />}
+          <div>{name}</div>
         </Badge>
       );
     };

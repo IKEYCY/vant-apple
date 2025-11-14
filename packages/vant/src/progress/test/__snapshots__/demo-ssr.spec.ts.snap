@@ -83,11 +83,11 @@ exports[`should render demo and match snapshot 1`] = `
   >
     <span
       class="van-progress__portion"
-      style="width:50%;background:#ee0a24;"
+      style="width:50%;background:#d34757;"
     >
     </span>
     <span
-      style="left:50%;transform:translate(-50%,-50%);background:#ee0a24;"
+      style="left:50%;transform:translate(-50%,-50%);background:#d34757;"
       class="van-progress__pivot"
     >
       Red

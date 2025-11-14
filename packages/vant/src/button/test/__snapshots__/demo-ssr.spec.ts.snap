@@ -454,7 +454,7 @@ exports[`should render demo and match snapshot 1`] = `
   <button
     type="button"
     class="van-button van-button--default van-button--normal"
-    style="color:white;background:linear-gradient(to right, #ff6034, #ee0a24);border:0;"
+    style="color:white;background:linear-gradient(to right, #ff6034, #d34757);border:0;"
   >
     <div class="van-button__content">
       <span class="van-button__text">

@@ -178,7 +178,7 @@ export default {
 | v-model:current-rate | 当前进度 | _number_ | - |
 | rate | 目标进度 | _number \| string_ | `100` |
 | size | 圆环直径，默认单位为 `px` | _number \| string_ | `100px` |
-| color | 进度条颜色，传入对象格式可以定义渐变色 | _string \| object_ | `#1989fa` |
+| color | 进度条颜色，传入对象格式可以定义渐变色 | _string \| object_ | `#313f63` |
 | layer-color | 轨道颜色 | _string_ | `white` |
 | fill | 填充颜色 | _string_ | `none` |
 | speed | 动画速度（单位为 rate/s） | _number \| string_ | `0` |

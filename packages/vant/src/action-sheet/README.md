@@ -173,7 +173,7 @@ export default {
   setup() {
     const show = ref(false);
     const actions = [
-      { name: 'Colored Option', color: '#ee0a24' },
+      { name: 'Colored Option', color: '#d34757' },
       { name: 'Disabled Option', disabled: true },
       { name: 'Loading Option', loading: true },
     ];

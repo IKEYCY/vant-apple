@@ -268,7 +268,7 @@ export default {
 | --- | --- | --- | --- |
 | v-model:active | 绑定当前选中标签的标识符 | _number \| string_ | `0` |
 | type | 样式风格类型，可选值为 `card` | _string_ | `line` |
-| color | 标签主题色 | _string_ | `#1989fa` |
+| color | 标签主题色 | _string_ | `#313f63` |
 | background | 标签栏背景色 | _string_ | `white` |
 | duration | 动画时间，单位秒，设置为 0 可以禁用动画 | _number \| string_ | `0.3` |
 | line-width | 底部条宽度，默认单位 `px` | _number \| string_ | `40px` |

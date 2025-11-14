@@ -142,7 +142,7 @@ exports[`should render demo and match snapshot 1`] = `
     >
       <i
         class="van-badge__wrapper van-icon van-icon-success"
-        style="border-color:#ee0a24;background-color:#ee0a24;"
+        style="border-color:#d34757;background-color:#d34757;"
       >
         <!--[-->
       </i>

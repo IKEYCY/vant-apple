@@ -127,7 +127,7 @@ Customize the button color using the `color` prop.
 ```html
 <van-button color="#7232dd">Pure</van-button>
 <van-button color="#7232dd" plain>Pure</van-button>
-<van-button color="linear-gradient(to right, #ff6034, #ee0a24)">
+<van-button color="linear-gradient(to right, #ff6034, #d34757)">
   Gradient
 </van-button>
 ```

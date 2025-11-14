@@ -56,7 +56,7 @@ export default {
 ### Custom Color
 
 ```html
-<van-switch v-model="checked" active-color="#ee0a24" inactive-color="#dcdee0" />
+<van-switch v-model="checked" active-color="#d34757" inactive-color="#dcdee0" />
 ```
 
 ### Custom Node
@@ -142,7 +142,7 @@ export default {
 | loading | Whether to show loading icon | _boolean_ | `false` |
 | disabled | Whether to disable switch | _boolean_ | `false` |
 | size | Size of switch button | _number \| string_ | `26px` |
-| active-color | Background color when active | _string_ | `#1989fa` |
+| active-color | Background color when active | _string_ | `#313f63` |
 | inactive-color | Background color when inactive | _string_ | `rgba(120, 120, 128, 0.16)` |
 | active-value | Value when active | _any_ | `true` |
 | inactive-value | Value when inactive | _any_ | `false` |

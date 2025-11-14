@@ -75,7 +75,7 @@ const onClickButton = () => showToast(t('clickButton'));
 
   <demo-block :title="t('customIconColor')">
     <van-action-bar>
-      <van-action-bar-icon icon="chat-o" :text="t('icon1')" color="#ee0a24" />
+      <van-action-bar-icon icon="chat-o" :text="t('icon1')" color="#d34757" />
       <van-action-bar-icon icon="cart-o" :text="t('icon2')" />
       <van-action-bar-icon icon="star" :text="t('collected')" color="#ff5000" />
       <van-action-bar-button type="warning" :text="t('button1')" />

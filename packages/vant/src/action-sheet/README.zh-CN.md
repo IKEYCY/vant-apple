@@ -181,7 +181,7 @@ export default {
   setup() {
     const show = ref(false);
     const actions = [
-      { name: '着色选项', color: '#ee0a24' },
+      { name: '着色选项', color: '#d34757' },
       { name: '禁用选项', disabled: true },
       { name: '加载选项', loading: true },
     ];

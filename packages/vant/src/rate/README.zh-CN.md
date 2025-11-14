@@ -163,7 +163,7 @@ export default {
 | count | 图标总数 | _number \| string_ | `5` |
 | size | 图标大小，默认单位为`px` | _number \| string_ | `20px` |
 | gutter | 图标间距，默认单位为`px` | _number \| string_ | `4px` |
-| color | 选中时的颜色 | _string_ | `#ee0a24` |
+| color | 选中时的颜色 | _string_ | `#d34757` |
 | void-color | 未选中时的颜色 | _string_ | `#c8c9cc` |
 | disabled-color | 禁用时的颜色 | _string_ | `#c8c9cc` |
 | icon | 选中时的图标名称或图片链接，等同于 Icon 组件的 [name 属性](#/zh-CN/icon#props) | _string_ | `star` |

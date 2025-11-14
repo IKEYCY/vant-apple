@@ -86,7 +86,7 @@ export default {
 ### Custom style
 
 ```html
-<van-slider v-model="value" bar-height="4px" active-color="#ee0a24" />
+<van-slider v-model="value" bar-height="4px" active-color="#d34757" />
 ```
 
 ### Custom button
@@ -156,7 +156,7 @@ export default {
 | step | Step size | _number \| string_ | `1` |
 | bar-height | Height of bar | _number \| string_ | `2px` |
 | button-size | Button size | _number \| string_ | `24px` |
-| active-color | Active color of bar | _string_ | `#1989fa` |
+| active-color | Active color of bar | _string_ | `#313f63` |
 | inactive-color | Inactive color of bar | _string_ | `#e5e5e5` |
 | range | Whether to enable dual thumb mode | _boolean_ | `false` |
 | reverse | Whether to reverse slider | _boolean_ | `false` |

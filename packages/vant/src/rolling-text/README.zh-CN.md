@@ -84,7 +84,7 @@ RollingText 组件提供了一些 CSS 变量，你可以覆盖这些变量来自
 
 ```css
 .my-rolling-text {
-  --van-rolling-text-background: #1989fa;
+  --van-rolling-text-background: #313f63;
   --van-rolling-text-color: white;
   --van-rolling-text-font-size: 24px;
   --van-rolling-text-gap: 6px;

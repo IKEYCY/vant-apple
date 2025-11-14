@@ -92,7 +92,7 @@ exports[`should render demo and match snapshot 1`] = `
     </div>
     <div
       class="van-badge van-badge--top-right van-badge--fixed"
-      style="background:#1989fa;"
+      style="background:#313f63;"
     >
       5
     </div>
@@ -103,7 +103,7 @@ exports[`should render demo and match snapshot 1`] = `
     </div>
     <div
       class="van-badge van-badge--top-right van-badge--fixed"
-      style="background:#1989fa;"
+      style="background:#313f63;"
     >
       10
     </div>
@@ -114,7 +114,7 @@ exports[`should render demo and match snapshot 1`] = `
     </div>
     <div
       class="van-badge van-badge--top-right van-badge--dot van-badge--fixed"
-      style="background:#1989fa;"
+      style="background:#313f63;"
     >
     </div>
   </div>

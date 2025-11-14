@@ -101,7 +101,11 @@ const t = useTranslate({
   <demo-block :title="t('loadingStatus')">
     <van-button loading type="primary" />
     <van-button loading type="primary" loading-type="spinner" />
-    <van-button loading :loading-text="t('loadingText')" type="success" />
+    <van-button
+      loading
+      :loading-text="t('loadingText')"
+      color="linear-gradient(to right, #0a8765,#1a4481) "
+    />
   </demo-block>
 
   <demo-block :title="t('shape')">
@@ -144,7 +148,7 @@ const t = useTranslate({
     <van-button color="#7232dd" :text="t('pure')" />
     <van-button plain color="#7232dd" :text="t('pure')" />
     <van-button
-      color="linear-gradient(to right, #ff6034, #ee0a24)"
+      color="linear-gradient(to right, #ff6034, #d34757)"
       :text="t('gradient')"
     />
   </demo-block>

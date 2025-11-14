@@ -156,7 +156,7 @@ exports[`should render demo and match snapshot 1`] = `
     >
       <div
         class="van-badge__wrapper van-icon van-icon-chat-o van-action-bar-icon__icon"
-        style="color:#ee0a24;"
+        style="color:#d34757;"
       >
         <!--[-->
       </div>

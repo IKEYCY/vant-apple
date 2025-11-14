@@ -166,7 +166,7 @@ export default {
 | v-model:current-rate | Current rate | _number_ | - |
 | rate | Target rate | _number \| string_ | `100` |
 | size | Circle size | _number \| string_ | `100px` |
-| color | Progress color, passing object to render gradient | _string \| object_ | `#1989fa` |
+| color | Progress color, passing object to render gradient | _string \| object_ | `#313f63` |
 | layer-color | Layer color | _string_ | `white` |
 | fill | Fill color | _string_ | `none` |
 | speed | Animate speed（rate/s） | _number \| string_ | `0` |

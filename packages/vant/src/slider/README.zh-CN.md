@@ -86,7 +86,7 @@ export default {
 ### 自定义样式
 
 ```html
-<van-slider v-model="value" bar-height="4px" active-color="#ee0a24" />
+<van-slider v-model="value" bar-height="4px" active-color="#d34757" />
 ```
 
 ### 自定义按钮
@@ -158,7 +158,7 @@ export default {
 | step | 步长 | _number \| string_ | `1` |
 | bar-height | 进度条高度，默认单位为 `px` | _number \| string_ | `2px` |
 | button-size | 滑块按钮大小，默认单位为 `px` | _number \| string_ | `24px` |
-| active-color | 进度条激活态颜色 | _string_ | `#1989fa` |
+| active-color | 进度条激活态颜色 | _string_ | `#313f63` |
 | inactive-color | 进度条非激活态颜色 | _string_ | `#e5e5e5` |
 | range | 是否开启双滑块模式 | _boolean_ | `false` |
 | reverse | 是否将进度条反转 | _boolean_ | `false` |

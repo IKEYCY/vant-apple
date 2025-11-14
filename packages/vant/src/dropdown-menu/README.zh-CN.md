@@ -122,7 +122,7 @@ export default {
 通过 `active-color` 属性可以自定义菜单标题和选项的选中态颜色。
 
 ```html
-<van-dropdown-menu active-color="#ee0a24">
+<van-dropdown-menu active-color="#d34757">
   <van-dropdown-item v-model="value1" :options="option1" />
   <van-dropdown-item v-model="value2" :options="option2" />
 </van-dropdown-menu>
@@ -168,7 +168,7 @@ export default {
 
 | 参数 | 说明 | 类型 | 默认值 |
 | --- | --- | --- | --- |
-| active-color | 菜单标题和选项的选中态颜色 | _string_ | `#1989fa` |
+| active-color | 菜单标题和选项的选中态颜色 | _string_ | `#313f63` |
 | direction | 菜单展开方向，可选值为`up` | _string_ | `down` |
 | z-index | 菜单栏 z-index 层级 | _number \| string_ | `10` |
 | duration | 动画时长，单位秒，设置为 0 可以禁用动画 | _number \| string_ | `0.2` |

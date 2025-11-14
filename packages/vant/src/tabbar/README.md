@@ -113,7 +113,7 @@ export default {
 ### Custom Color
 
 ```html
-<van-tabbar v-model="active" active-color="#ee0a24">
+<van-tabbar v-model="active" active-color="#d34757">
   <van-tabbar-item icon="home-o">Tab</van-tabbar-item>
   <van-tabbar-item icon="search">Tab</van-tabbar-item>
   <van-tabbar-item icon="friends-o">Tab</van-tabbar-item>
@@ -169,7 +169,7 @@ export default {
 | fixed | Whether to fixed bottom | _boolean_ | `true` |
 | border | Whether to show border | _boolean_ | `true` |
 | z-index | Z-index | _number \| string_ | `1` |
-| active-color | Color of active tab item | _string_ | `#1989fa` |
+| active-color | Color of active tab item | _string_ | `#313f63` |
 | inactive-color | Color of inactive tab item | _string_ | `#7d7e80` |
 | route | Whether to enable route mode | _boolean_ | `false` |
 | placeholder | Whether to generate a placeholder element when fixed | _boolean_ | `false` |

@@ -170,7 +170,7 @@ Vant exports following Dialog utility functions:
 | cancelButtonColor | Cancel button color | _string_ | `black` |
 | cancelButtonDisabled | Whether to disable cancel button | _boolean_ | `false` |
 | confirmButtonText | Confirm button text | _string_ | `Confirm` |
-| confirmButtonColor | Confirm button color | _string_ | `#ee0a24` |
+| confirmButtonColor | Confirm button color | _string_ | `#d34757` |
 | confirmButtonDisabled | Whether to disable confirm button | _boolean_ | `false` |
 | destroyOnClose `v4.9.18` | Whether to destroy content when closed | _boolean_ | `false` |
 | overlay | Whether to show overlay | _boolean_ | `true` |
@@ -201,7 +201,7 @@ Vant exports following Dialog utility functions:
 | cancel-button-color | Cancel button color | _string_ | `black` |
 | cancel-button-disabled | Whether to disable cancel button | _boolean_ | `false` |
 | confirm-button-text | Confirm button text | _string_ | `Confirm` |
-| confirm-button-color | Confirm button color | _string_ | `#ee0a24` |
+| confirm-button-color | Confirm button color | _string_ | `#d34757` |
 | confirm-button-disabled | Whether to disable confirm button | _boolean_ | `false` |
 | destroy-on-close `v4.9.18` | Whether to destroy content when closed | _boolean_ | `false` |
 | z-index | Set the z-index to a fixed value | _number \| string_ | `2000+` |

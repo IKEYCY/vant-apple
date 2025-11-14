@@ -87,7 +87,7 @@ exports[`should render demo and match snapshot 1`] = `
     <div class="van-checkbox__icon van-checkbox__icon--round van-checkbox__icon--checked">
       <i
         class="van-badge__wrapper van-icon van-icon-success"
-        style="border-color: #ee0a24; background-color: rgb(238, 10, 36);"
+        style="border-color: #d34757; background-color: rgb(238, 10, 36);"
       >
       </i>
     </div>

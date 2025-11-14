@@ -104,7 +104,7 @@ const onConfirm = () => {
   </demo-block>
 
   <demo-block :title="t('customActiveColor')">
-    <van-dropdown-menu active-color="#ee0a24">
+    <van-dropdown-menu active-color="#d34757">
       <van-dropdown-item v-model="value1" :options="option1" />
       <van-dropdown-item v-model="value2" :options="option2" />
     </van-dropdown-menu>

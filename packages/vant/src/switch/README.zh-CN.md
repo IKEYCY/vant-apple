@@ -66,7 +66,7 @@ export default {
 `active-color` 属性表示打开时的背景色，`inactive-color` 表示关闭时的背景色。
 
 ```html
-<van-switch v-model="checked" active-color="#ee0a24" inactive-color="#dcdee0" />
+<van-switch v-model="checked" active-color="#d34757" inactive-color="#dcdee0" />
 ```
 
 ### 自定义按钮
@@ -154,7 +154,7 @@ export default {
 | loading | 是否为加载状态 | _boolean_ | `false` |
 | disabled | 是否为禁用状态 | _boolean_ | `false` |
 | size | 开关按钮的尺寸，默认单位为 `px` | _number \| string_ | `26px` |
-| active-color | 打开时的背景色 | _string_ | `#1989fa` |
+| active-color | 打开时的背景色 | _string_ | `#313f63` |
 | inactive-color | 关闭时的背景色 | _string_ | `rgba(120, 120, 128, 0.16)` |
 | active-value | 打开时对应的值 | _any_ | `true` |
 | inactive-value | 关闭时对应的值 | _any_ | `false` |

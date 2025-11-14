@@ -29,9 +29,9 @@ app.use(Loading);
 ### Color
 
 ```html
-<van-loading color="#1989fa" />
+<van-loading color="#313f63" />
 
-<van-loading type="spinner" color="#1989fa" />
+<van-loading type="spinner" color="#313f63" />
 ```
 
 ### Size

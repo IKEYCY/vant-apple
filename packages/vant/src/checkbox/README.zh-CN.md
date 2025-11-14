@@ -73,7 +73,7 @@ export default {
 通过 `checked-color` 属性设置选中状态的图标颜色。
 
 ```html
-<van-checkbox v-model="checked" checked-color="#ee0a24">复选框</van-checkbox>
+<van-checkbox v-model="checked" checked-color="#d34757">复选框</van-checkbox>
 ```
 
 ### 自定义大小
@@ -349,7 +349,7 @@ export default {
 | label-disabled | 是否禁用复选框文本点击 | _boolean_ | `false` |
 | label-position | 文本位置，可选值为 `left` | _string_ | `right` |
 | icon-size | 图标大小，默认单位为 `px` | _number \| string_ | `20px` |
-| checked-color | 选中状态颜色 | _string_ | `#1989fa` |
+| checked-color | 选中状态颜色 | _string_ | `#313f63` |
 | bind-group | 是否与复选框组绑定 | _boolean_ | `true` |
 | indeterminate | 是否为不确定状态 | _boolean_ | `false` |
 
@@ -362,7 +362,7 @@ export default {
 | max | 最大可选数，`0` 为无限制 | _number \| string_ | `0` |
 | direction | 排列方向，可选值为 `horizontal` | _string_ | `vertical` |
 | icon-size | 所有复选框的图标大小，默认单位为 `px` | _number \| string_ | `20px` |
-| checked-color | 所有复选框的选中状态颜色 | _string_ | `#1989fa` |
+| checked-color | 所有复选框的选中状态颜色 | _string_ | `#313f63` |
 | shape `v4.6.3` | 形状，可选值为 `square` | _string_ | `round` |
 
 ### Checkbox Events

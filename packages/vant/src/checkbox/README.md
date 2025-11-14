@@ -67,7 +67,7 @@ export default {
 ### Custom Color
 
 ```html
-<van-checkbox v-model="checked" checked-color="#ee0a24">Checkbox</van-checkbox>
+<van-checkbox v-model="checked" checked-color="#d34757">Checkbox</van-checkbox>
 ```
 
 ### Custom Icon Size
@@ -330,7 +330,7 @@ export default {
 | label-disabled | Whether to disable label click | _boolean_ | `false` |
 | label-position | Can be set to `left` | _string_ | `right` |
 | icon-size | Icon size | _number \| string_ | `20px` |
-| checked-color | Checked color | _string_ | `#1989fa` |
+| checked-color | Checked color | _string_ | `#313f63` |
 | bind-group | Whether to bind with CheckboxGroup | _boolean_ | `true` |
 | indeterminate | Whether indeterminate status | _boolean_ | `false` |
 
@@ -343,7 +343,7 @@ export default {
 | max | Maximum amount of checked options | _number \| string_ | `0`(Unlimited) |
 | direction | Direction, can be set to `horizontal` | _string_ | `vertical` |
 | icon-size | Icon size of all checkboxes | _number \| string_ | `20px` |
-| checked-color | Checked color of all checkboxes | _string_ | `#1989fa` |
+| checked-color | Checked color of all checkboxes | _string_ | `#313f63` |
 | shape `v4.6.3` | Can be set to `square` | _string_ | `round` |
 
 ### Checkbox Events

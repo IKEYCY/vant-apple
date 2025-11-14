@@ -154,7 +154,7 @@ export default {
 | touchable | Whether to allow swipe by touch gesture | _boolean_ | `true` |
 | stop-propagation | Whether to stop touchmove event propagation | _boolean_ | `false` |
 | lazy-render | Whether to enable lazy render | _boolean_ | `false` |
-| indicator-color | Indicator color | _string_ | `#1989fa` |
+| indicator-color | Indicator color | _string_ | `#313f63` |
 
 ### Swipe Events
 

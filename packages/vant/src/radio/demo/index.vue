@@ -98,10 +98,10 @@ const inactiveIcon = cdnURL('user-inactive.png');
 
   <demo-block :title="t('customColor')">
     <van-radio-group v-model="radio3" class="demo-radio-group">
-      <van-radio name="1" checked-color="#ee0a24">
+      <van-radio name="1" checked-color="#d34757">
         {{ t('radio') }} 1
       </van-radio>
-      <van-radio name="2" checked-color="#ee0a24">
+      <van-radio name="2" checked-color="#d34757">
         {{ t('radio') }} 2
       </van-radio>
     </van-radio-group>

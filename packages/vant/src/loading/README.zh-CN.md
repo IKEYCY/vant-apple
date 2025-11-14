@@ -33,9 +33,9 @@ app.use(Loading);
 通过 `color` 属性设置加载图标的颜色。
 
 ```html
-<van-loading color="#1989fa" />
+<van-loading color="#313f63" />
 
-<van-loading type="spinner" color="#1989fa" />
+<van-loading type="spinner" color="#313f63" />
 ```
 
 ### 自定义大小
